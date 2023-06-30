@@ -25,19 +25,19 @@ int main(int argc, char const *argv[])
         scanf("%f", &num2);
         if (todo == 1)
         {
-            printf("%f", num1 + num2);
+            printf("Result: %f", num1 + num2);
         }
         if (todo == 2)
         {
-            printf("%f", num1 - num2);
+            printf("Result: %f", num1 - num2);
         }
         if (todo == 3)
         {
-            printf("%f", num1 * num2);
+            printf("Result: %f", num1 * num2);
         }
         if (todo == 4)
         {
-            printf("%f", num1 / num2);
+            printf("Result: %f", num1 / num2);
         }
         if (todo == 5)
         {
